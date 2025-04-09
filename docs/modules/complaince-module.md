@@ -4,56 +4,59 @@ sidebar_position: 1
 
 # Compliance Module
 
-The Compliance Module in Athena Guard is designed to help organizations monitor and ensure adherence to laws, regulations, and internal policies. This module provides a centralized platform for tracking compliance activities, managing documentation, and staying informed about compliance status.
+the Compliance Module within Athena Guard, designed to streamline and enhance the compliance management process. This module provides a centralized platform for tracking compliance activities, managing documentation, and staying informed about compliance status. The module comprises five key sections: Compliance Home, Upload Existing File, Creation Field, Maker Checker Data, and View Data. Each section is tailored to ensure accuracy, accountability, and efficiency in meeting regulatory requirements.
 
-## Key Features
+## Complaince Home Page
 
-### Centralized Compliance Management
-- **Description:** Provides a single platform to manage all compliance-related activities and documentation.
-- **Benefit:** Simplifies compliance management by consolidating information in one place.
+- The quick access buttons labeled RBI, NPCI, NHB, IRDAI, Satutory Practice and SEBI, each corresponding to a specific regulatory to fetch circulars.
 
-### Real-Time Alerts and Notifications
-- **Description:** Sends real-time alerts and notifications to stakeholders about compliance status and any issues that need attention.
-- **Benefit:** Ensures timely action and prevents compliance breaches.
+- Integrates web scraping functionality to dynamically extract data from official websites (e.g., RBI) when users click the respective button.
 
-### Policy and Regulation Tracking
-- **Description:** Tracks relevant laws, regulations, and internal policies to ensure the organization stays compliant.
-- **Benefit:** Keeps the organization updated with the latest regulatory changes and requirements.
+- Sends real-time notifications to users, ensuring they stay updated on the latest compliance obligations directly from the source.
 
-### Compliance Audits and Assessments
-- **Description:** Facilitates regular compliance audits and assessments to evaluate adherence to regulations and policies.
-- **Benefit:** Identifies areas of non-compliance and helps in taking corrective actions.
+- Users can either disseminate the entire regulatory extract or edit the regulatory extract captured by the web scrapping technology and send the applicable gists of the circulars to the complaince makers/checker for further actions.
 
-### Documentation Management
-- **Description:** Manages compliance-related documents, including policies, procedures, and audit reports.
-- **Benefit:** Ensures easy access to important documents and maintains an organized record.
+- The Edit feature contails 33 editable fields to capture all the necessary information like applicaliblity, deadlines, references to earlier circulars, departments, map status, documentation control, etc. for each obligation.
 
-### Reporting and Analytics
-- **Description:** Generates detailed compliance reports and analytics to provide insights into compliance status and trends.
-- **Benefit:** Helps in making informed decisions and improving compliance strategies.
+- Clicking on the Send button opens a user friendly form where all the fields can be edited and saved to streamilne the dessemination process for complaice checkers.
 
-## Benefits
 
-- **Enhanced Compliance:** Ensures adherence to laws, regulations, and internal policies, reducing the risk of non-compliance.
-- **Improved Efficiency:** Automates compliance tracking and management, saving time and reducing manual effort.
-- **Proactive Management:** Provides real-time alerts and notifications, enabling proactive compliance management.
-- **Comprehensive Documentation:** Maintains an organized record of all compliance-related documents, making it easy to access and manage.
-- **Informed Decision-Making:** Offers detailed reports and analytics to support informed decision-making and continuous improvement.
+## Upload Exisiting File Page
+The Upload Existing File section allows users to import pre-existing compliance data, enhancing flexibility and reducing manual entry.
+- Automatically populates the system with circular details, including Circular Reference, Regulator, Section Reference, and Regulatory Extract, based on the uploaded content.
 
-## Use Cases
 
-### Regulatory Compliance
-- **Scenario:** An organization needs to comply with industry-specific regulations.
-- **Solution:** The Compliance Module tracks relevant regulations, sends alerts about updates, and ensures all necessary actions are taken to stay compliant.
+## Creation Field Page
+The Creation Field enables users to manually input and customize compliance line items, offering a tailored approach to data entry.
 
-### Internal Policy Adherence
-- **Scenario:** An organization wants to ensure adherence to its internal policies and procedures.
-- **Solution:** The Compliance Module manages policy documents, tracks compliance activities, and conducts regular assessments to ensure adherence.
+- Fields: Includes dropdowns and text inputs for Product, Process, Subprocess, Circular Reference, Year, Regulator, Section Reference, Regulatory Extract, Applicability, Policy/SOP Reference, Policy/SOP Extract, Level of Documentation, and more.
+- Action Buttons: "Save Data" and "Add Row" to store and expand entries.
+- Supports customization with options like Established Key Internal Controls and Procedures/Control Description.
+- Users can add rows to create specific line items as required, making the table highly adaptable.
 
-### Audit Preparation
-- **Scenario:** An organization is preparing for an external compliance audit.
-- **Solution:** The Compliance Module facilitates the preparation by organizing all necessary documents, conducting internal audits, and generating compliance reports.
+
+
+## Maker Checker Data Page
+The Maker Checker Data section facilitates a collaborative review process, where makers submit data for checker approval or rejection.
+- Makers input and submit data using the "Save" button, which moves it to the checker stage.
+- Checkers review the data, approve or reject it, and add remarks (e.g., "Approve - Well-documented" or "Reject - Missing details").
+- If rejected, the data returns to the maker for revisions; if approved, it proceeds to the next stage.
+
+
+## View Data Page
+The View Data section provides a master view of all compliance data, approved or rejected by checkers, for oversight and reporting.
+- Download Option: Allows export of filtered data as an Excel file.
+- Displays all line items that have been reviewed and closed by checkers.
+- Users can filter data by status and download corresponding records.
+
+
+## How to Use the Module
+1. Compliance Home: Navigate and receive real-time regulatory updates.
+2. Upload Existing File: Import pre-existing compliance data.
+3. Creation Field: Manually input and customize compliance line items.
+4. Maker Checker Data: Submit and review data for approval or rejection.
+5. View Data: Monitor and export finalized compliance records.
 
 ---
 
-The Compliance Module in Athena Guard is an essential tool for organizations looking to streamline their compliance management processes, ensuring they stay compliant, efficient, and proactive.
+With integrated web scraping, a structured maker-checker process, and robust data viewing capabilities, this module ensures accuracy, accountability, and readiness for regulatory audits The Compliance Module in Athena Guard is an essential tool for organizations looking to streamline their compliance management processes, ensuring they stay compliant, efficient, and proactive.
