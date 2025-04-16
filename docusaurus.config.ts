@@ -87,7 +87,7 @@ const config: Config = {
         //   position: 'right',
         // },
         {
-          href: 'mailto:support@athenaguard.com',
+          href: 'mailto:regtechsupport@IN.GT.COM',
           label: 'Contact Support',
           position: 'right',
         },

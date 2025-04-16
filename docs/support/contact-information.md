@@ -18,7 +18,7 @@ If you encounter any issues, please refer to our troubleshooting guide. It provi
 
 If you need further assistance, our support team is here to help. You can reach out to us through the following channels:
 
-- **Email:** support@athenaguard.com
+- **Email:** regtechsupport@IN.GT.COM
 - **Phone:** +1-800-123-4567
 - **Live Chat:** Available on our website
 
