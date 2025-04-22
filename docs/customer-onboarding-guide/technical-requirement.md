@@ -25,6 +25,7 @@ title: Technical Requirement
 * Docker
 * Docker Compose: For managing multiple containers
 * Reverse-proxy - Nginx or Apache
+* PowerBI Desktop
 
 ### **Production Servers:**
 1. **Frontend Server:**
@@ -42,6 +43,7 @@ title: Technical Requirement
    1. Docker Compose: For managing multiple containers
    1. Reverse-Proxy - Nginx or Apache
    1. Java: Latest stable version
+   1. PowerBI Desktop
    
 2. **Backend Server:**
    * **Processor**: 4 vCPUs
@@ -57,6 +59,7 @@ title: Technical Requirement
    1. Docker Compose: For managing multiple containers
    1. Reverse-Proxy - Nginx or Apache
    1. Java: Latest stable version
+   
 
 3. **Database Server:**
    * **Processor**: 8 vCPUs

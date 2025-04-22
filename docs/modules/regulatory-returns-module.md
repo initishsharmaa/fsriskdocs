@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 6
 ---
 
 # Regulatory Returns Module
@@ -37,6 +37,13 @@ This is a centralised space where all return reports (due, overdue and submitted
 - Only Admins hold the right to view and edit this page to ensure authority and accountability.
 - Admins also have an extended capabilities to add, pause or edit a report.
 This streamline the returns process and helps the users in to view all the returns in a single place.
+
+## Returns Dashboard
+The Dashboards provide an interactive and visual representation of the entire returns status.
+- The home page features a pie-chart visualization illustrating the delays in return filings.
+- Users can use the analyse page to drill through the aprroval status of the returns, track approvals across various departments, and examine department-wise trends in the average delay of return filings.
+- The Table page of the Dashboard provides a summary of delayed returns, including the duration of each delay in days.
+This helps users analyse the returns filled on a day to day basis.
 ---
 
 The Regulatory Returns Module in Athena Guard ensures operational efficiency, and effective management of regulatory returns, helping organizations meet deadlines, minimize risks, submit returns in a timely manner. 
