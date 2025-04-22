@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Obligation Module
 
-The Obligation Module in Athena Guard tool all users can manage and address previously disseminated pending obligations.
+The Obligation Module in Athena Guard tool is accessible to all users to manage and address previously disseminated pending obligations.
 
 ## Admin Page
 Admin page is the hub for initiating the creation on obligations by GT Admin.

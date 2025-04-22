@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Dessemination Module
 
-The Athena Guard tool streamlines compliance management by enabling companies to efficiently create, assign, and track obligations across relevant departments and personnel.
+The Dessemination module in Athena Guard tool streamlines compliance management by enabling companies to efficiently create, assign, and track obligations across relevant departments and personnel.
 
 ## Create Dessemination Page
 - **Obligation Creation & Assignment** –Users can generate obligations with detailed reference numbers, titles, assigned regulators, and department-specific responsibilities.
