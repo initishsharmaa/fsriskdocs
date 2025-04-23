@@ -36,18 +36,18 @@ On the Obligation Page, users have access to tools for managing obligations effi
 
 ### Key Feature
 - **Adding a New Obligation** – Complaince Makers can click the Add Obligation button at the top, which inserts an extra row in the table. They can then input the necessary details and save the obligation.
-- **Search Functionality **– Users can locate specific obligations by entering the Obligation ID in the search box, ensuring quick and precise retrieval of relevant records.
+- **Search Functionality**– Users can locate specific obligations by entering the Obligation ID in the search box, ensuring quick and precise retrieval of relevant records.
 - **Compliance Maker Functions** – Compliance makers have the ability to:
 	- Fill out multiple parameters relevant to the obligation.
 	- Tag the respective department and department owner for proper assignment.
 	- Save and submit the obligation to initiate the compliance workflow.
 - **Compliance Checker Functions** – Compliance checkers have the ability to approve or reject an obligation add comments, clarifications, or instructions before submission.
 
-####Department Maker Responsibilities
+#### Department Maker Responsibilities
 - Can escalate obligations to either the Department Checker or the Head of Department (HOD) for approval.
 - Must fill out multiple fields, including:- Mapping Approval, Timelines, Evidence Artifacts and Other required compliance details.
 
-####Department Checker Responsibilities
+#### Department Checker Responsibilities
 - Reviews pending obligations and has the authority to either:
 	- Approve the obligation, sending it forward in the workflow.
 	- Reject the obligation, returning it to the Department Maker for necessary modifications based on communicated feedback.
@@ -64,3 +64,36 @@ On the Obligation Page, users have access to tools for managing obligations effi
 	- Fills out the final compliance status.
 	- Adds remarks for documentation.
 - Once completed, the Compliance Checker conducts a final review and gives the final approval, officially closing the obligation.
+
+## Obligation Workflow
+- **Obligation Submission**
+	- GT admin sends the regulatory obligations to the Compliance Maker at T+2 days from the release of the regulation for review and completion.
+
+- **Initial Compliance Review**
+	- The Compliance Maker verifies and completes the information before forwarding it to the Compliance Checker(Step 1).
+	- If rejected, it is returned to the Compliance Maker for revisions (Step 1.1).
+	- If approved, it moves to the relevant departments (Step 2).
+
+- **Departmental Review**
+	- Departments assess the obligation and either:
+		- Reject it—returning it to the Compliance Maker for further modifications (Step 3.1).
+		- Approve it—forwarding it to the Department HOD (Step 3).
+
+
+- **HOD Approval Process**
+	- The Department HOD evaluates the obligation and can:
+		- Reject it—sending it back to the department for revisions (Step 4.1).
+		- Approve it—forwarding it to the Compliance Maker (Step 4).
+
+
+- **Compliance Maker Final Review**
+	- The Compliance Maker re-examines the obligation and can:
+		- Reject it—sending it back to the department for further modifications (Step 5.1).
+		- Approve it—submitting it to the Compliance Checker for final verification (Step 5).
+
+
+- **Final Compliance Check**
+	- The Compliance Checker assesses the obligation and either:
+		- Approves it—closing the process (Step 6).
+		- Rejects it—returning it for further revisions (Step 6.1).
+

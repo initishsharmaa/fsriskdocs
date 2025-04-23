@@ -10,6 +10,10 @@ The page features a navigation bar at the top, which includes buttons that provi
 - This navigation bar can be customized to include all relevant pages as required by the client.
 - The right side of the page contains a KRI panel with four key risk indicators (KRIs) that are essential for gaining a comprehensive understanding of the firm from a compliance perspective. 
 - The KRIs and their associated filters are fully customizable to meet the specific needs of the client.
+- The header of the dashboard includes two adjustable filters  of years and responsible officers that can be customized based on client preferences and priorities. Additionally, it features:
+	- A clear filters button to reset selections.
+	- A back button for seamless navigation within the dashboard.
+
 
 ## Anaysis Page
 The Analysis Page delivers a comprehensive view of the firm's compliance landscape, featuring key indicators such as
@@ -19,14 +23,23 @@ The Analysis Page delivers a comprehensive view of the firm's compliance landsca
 - Open compliances and their distribution based on the responsible owners and unit.
 - The state/zone-wise breakdown of regulations.
 
-This structured approach provides users with an insightful, data-driven perspective on the firm's compliance status.
+
+### Tooltips Functionality
+The Tooltips functionality enhances dashboard interactivity by embedding additional details within visualizations.
+#### Key Features:
+- Dynamic Data Filtering: Users can hover over a graph element to reveal an additional graph that filters data based on the selected element.
+- Contextual Insights: For example, hovering over the NHB segment in a pie chart displays the open and closed MAPs for NHB. Similarly, hovering over the SEBI segment fil
+
+
 
 
 ## Drill Through Page
-The drill-through feature in the dashboard seamlessly integrates navigation and filtration functionalities.
-- Users can activate it by clicking on a graph element and selecting the drill-through button on the left-hand navigation panel. 
-- Upon selection, they are directed to a dedicated drill-through page displaying multiple graphs, all dynamically filtered based on the initially chosen value.
+The Drill-Through Page serves as a dynamic filtering mechanism, allowing users to refine displayed data based on selected values.
 - Both the visualizations on the drill-through page and the drill-through-compatible fields across other sections of the dashboard are fully customizable, ensuring flexibility to align with the client's unique requirements.
+### Functionality
+- When a value is selected and drilled through (e.g., drilling through a pie chart by selecting "Open"), the page only displays data relevant to that selection.
+- Users can modify the fields available for drill-through, ensuring flexibility in data analysis.
+
 
 
 ## Non- Compliance Page
@@ -43,7 +56,7 @@ Fully customizable dashboards and views, allowing clients to tailor the page to 
 The Help Page serves is designed to assist users in effectively navigating and utilizing the tool to its fullest potential.
 
 - **Guided Navigation** – Step-by-step instructions and interactive elements to help users understand the dashboard’s structure and functionalities.
-- ** Feature Explanations **– Comprehensive breakdowns of key features, ensuring users can leverage every aspect of the tool efficiently.
+- **Feature Explanations**– Comprehensive breakdowns of key features, ensuring users can leverage every aspect of the tool efficiently.
 - **Troubleshooting & FAQs** – A dedicated section addressing common issues, questions, and best practices for resolving potential challenges.
 
 This Help Page acts as a reliable resource, empowering users to maximize the dashboard's capabilities with ease.

@@ -16,15 +16,16 @@ Athena Guard offers a comprehensive set of features designed to streamline regul
 ## Regulatory Returns Module
 - **Purpose:** Facilitate the preparation and submission of various regulatory returns.
 - **Features:**
-  - Automates the reporting process.
-  - Ensures compliance with regulatory requirements.
-  - Reduces the risk of errors through comprehensive validation checks.
+  - Automates the reporting process and provides a centralised space for all the regulatory returns.
+  - Ensures compliance with regulatory requirements with visualiszations and dashboards for analysis from powerBI.
+  - Reduces the risk of errors through comprehensive validation checks and due dates to see all the overdue and dued returns in a single glance.
 
 ## Compliance Module
-- **Purpose:** Monitor and ensure adherence to laws, regulations, and internal policies.
+- **Purpose:** Centralized platform for tracking compliance activities, managing documentation, and staying informed about compliance status.
 - **Features:**
-  - Centralized platform for tracking compliance activities.
-  - Manages compliance-related documentation.
+  - Integrates web scraping functionality to dynamically extract data from official regulator websites.
+  - Maker Checker functionality to minimize the errors.
+  - Robust data viewing capabilities cal view all the complainces in a glance.
   - Provides real-time alerts and notifications.
 
 ## Quality Assurance and Improvement Program (QAIP) Module

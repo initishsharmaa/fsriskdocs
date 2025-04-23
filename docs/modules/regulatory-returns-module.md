@@ -15,6 +15,8 @@ This page displays all the returns that are close to their due date. This will h
 - Users can add the required Master Direction and remarks to each return and sumbit to close the return.
 - A Save button to update and initiate the approval/escalation workflow as needed.
 
+- Specific returns data can be fetched from the returns repository, by adding filters and clicking on the fetch data button.
+
 
 The Returns Due page allows the users to stay ahead of submission deadlines, thereby reducing compliance risks and last-minute escalations.
 
