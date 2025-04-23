@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 ---
 
 # IRDAI Module
@@ -10,6 +10,7 @@ The IRDAI Module in Athena Guard is an intuitive page designed to help the insur
 
 ### IRDAI Regulations
 This is the central library capturing IRDAI Circulars, Product Guidelines, and Health Insurance Regulations.
+- It is similar to the compliance module with the difference of the regulator being IRDAI.
 - It seamlessly integrates compliance data entry, control validation, test execution, and risk scoring, making it user-friendly while supporting rigorous regulatory compliance efforts.
 - Key regulatory extracts are visible at a glance and are tied to specific SOPs or policies in your business.
 
@@ -23,7 +24,7 @@ The regulatory extracts are segregated according each section in the regualtions
 
 **Test Execution & Evidence:** This Section tracks the test steps for control validation and stores supporting evidence with the responsible owners and units.
 
-** Map Status:** The Map status (Open/Closed) with the timelines to be maintained for each regulatory extract.
+**Map Status:** The Map status (Open/Closed) with the timelines to be maintained for each regulatory extract.
 
 ### Risk and Complaince Scoring
 Applies a weighted scoring system to assess control maturity and complaince risk.
