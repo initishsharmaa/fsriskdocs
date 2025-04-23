@@ -3,11 +3,11 @@ sidebar_position: 3
 ---
 
 
-# Dessemination Module
+# Dissemination Module
 
-The Dessemination module in Athena Guard tool streamlines compliance management by enabling companies to efficiently create, assign, and track obligations across relevant departments and personnel.
+The Dissemination module in Athena Guard tool streamlines compliance management by enabling companies to efficiently create, assign, and track obligations across relevant departments and personnel.
 
-## Create Dessemination Page
+## Create Dissemination Page
 - **Obligation Creation & Assignment** –Users can generate obligations with detailed reference numbers, titles, assigned regulators, and department-specific responsibilities.
 
 - **Compliance Tracking** – Ensures obligations are allocated accurately, supported by necessary documentation and regulatory evidence for streamlined oversight.
@@ -24,11 +24,11 @@ Once the compliance maker or checker logs into the tool and accesses the Dissemi
 
 - **Actionable Oversight**– Allows compliance makers and checkers to review outstanding items, prioritize tasks, and ensure timely dissemination of crucial regulatory information.
 
-- **Track Desseminations** – Allows makers and checkers to track disseminations effectively ensuring a decrease in non compliances.
+- **Track Disseminations** – Allows makers and checkers to track disseminations effectively ensuring a decrease in non compliances.
 
-## Dessemination Page
+## Dissemination Page
 When the Show Dissemination button is clicked, the compliance maker is directed to the Dissemination Page, where they can input all relevant details customized to the client's requirements.
-### Steps involved in Dessemination
+### Steps involved in Dissemination
 - **Custom Data Entry** – The maker fills in required information based on predefined client-specific configurations.
 
 - **Final Review & Submission** – Upon clicking the Send button at the bottom of the page, the regulation is disseminated efficiently to the checker for review.
@@ -44,7 +44,7 @@ The Compliance Checker has two options to either accept or reject the obligation
 
 - Reject – If the obligation requires modifications, the checker can reject it, sending it back to the maker for necessary adjustments mentioned in the Remarks.
 
-## Dessemination Workflow
+## Dissemination Workflow
 - **Monitoring and Assessment (T+0)**
     - GT admin tracks newly released and updated regulatory guidelines from regulators.
     - Evaluates the applicability, actionable requirements, and obligations associated with the regulations.
@@ -70,4 +70,4 @@ The Compliance Checker has two options to either accept or reject the obligation
 
 
 ---
-The Dessemination Module in Athena Guard makes it a one stop solution for all the compliance needs by providing a platform to map regulations to entites and help organizations adhere to the complaince standards set up by regulators.
+The Dissemination Module in Athena Guard makes it a one stop solution for all the compliance needs by providing a platform to map regulations to entites and help organizations adhere to the complaince standards set up by regulators.
