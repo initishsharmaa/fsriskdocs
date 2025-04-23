@@ -1,11 +1,11 @@
 ---
 sidebar_position: 1
 ---
-# Home Page 
+# Visualization Dashboard 
 
 The Dashboards page in Athena Guard is designed to provide a centralized, visually intuitive interface for compliance monitoring, risk analysis, and control effectiveness using Power BI dashboards.
 
-## Dashboard Home page
+## Dashboard
 The page features a navigation bar at the top, which includes buttons that provide access to all other pages within the dashboard also provides year filter that adjust the KRI accordingly.
 - This navigation bar can be customized to include all relevant pages as required by the client.
 - The right side of the page contains a KRI panel with four key risk indicators (KRIs) that are essential for gaining a comprehensive understanding of the firm from a compliance perspective. 
